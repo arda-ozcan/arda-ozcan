@@ -4,7 +4,7 @@
 
 ### Ben bir **Web Developer**'ım ve kodlamayı seviyorum.
 
-<img src="https://media.giphy.com/media/Q81NCSmK6gV1Qd0Drl/giphy.gif" alt="Merhaba GIF" width="80" height="80"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Merhaba GIF" width="80" height="80"/>
 
 </div>
 
@@ -19,7 +19,8 @@
   <br>
   💻 **Ön Yüz (Frontend) Geliştirme** projelerine odaklanıyorum.
   <br>
-  📧 Benimle iletişime geçmek için: **ardaozcan@email.com** </p>
+  📧 Benimle iletişime geçmek için: **ardaozcan@email.com**
+</p>
 
 ---
 
@@ -34,9 +35,9 @@
     <br><br> 
     
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" /> 
     
-    <br><br>
+    <br><br> 
 
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
