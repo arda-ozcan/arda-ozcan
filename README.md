@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4FC08D&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Arda!+%F0%9F%91%8B;+Web+Geli%C5%9Ftiricisiyim.;+python+%26+Web+E%C4%9Fitmeniyim." alt="Dinamik Yazı Animasyonu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4FC08D&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Arda!+%F0%9F%91%8B;+Web+Geli%C5%9Ftiricisiyim.;+Python+%26+Web+E%C4%9Fitmeniyim." alt="Dinamik Yazı Animasyonu">
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 ### 🚀 Hakkımda
 
-- 👨‍🏫 9-12 yaş arası öğrencilere **Web Geliştirme** ve **Python** alanlarında eğitim veriyorum.
+- 👨‍🏫 **Web Geliştirme** ve **Python** alanlarında eğitim veriyorum.
 - 💻 **Frontend Geliştirme**'ye odaklanıyor, özellikle **Javascript** ile modern web uygulamaları oluşturuyorum.
 - 💡 Yeni teknolojileri keşfetmeyi ve kendimi sürekli geliştirmeyi seviyorum.
 
