@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4FC08D&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Arda!+%F0%9F%91%8B;Ben+bir+Web+Geli%C5%9Ftiricisiyim.;Python+%26+Web+E%C4%9Fitmeniyim." alt="Dinamik Yazı Animasyonu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4FC08D&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Arda!+%F0%9F%91%8B;Ben+Web+Geli%C5%9Ftiricisiyim.;Python+%26+Web+E%C4%9Fitmeniyim." alt="Dinamik Yazı Animasyonu">
   </a>
 </div>
 
@@ -12,8 +12,8 @@
 
 ### 🚀 Hakkımda
 
-- 👨‍🏫 9-12 yaş arası öğrencilere **Python** ve **Web Geliştirme** alanlarında eğitim veriyorum.
-- 💻 **Frontend Geliştirme**'ye odaklanıyor, özellikle **Vue.js** ile modern web uygulamaları oluşturuyorum.
+- 👨‍🏫 9-12 yaş arası öğrencilere **Web Geliştirme** ve **Python** alanlarında eğitim veriyorum.
+- 💻 **Frontend Geliştirme**'ye odaklanıyor, özellikle **Javascript** ile modern web uygulamaları oluşturuyorum.
 - 💡 Yeni teknolojileri keşfetmeyi ve kendimi sürekli geliştirmeyi seviyorum.
 
 ---
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,bootstrap,vuejs,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,python,vscode,git" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 ### 📫 Bana Ulaşın
 
 <p align="center">
-  <a href="mailto:ardaozcan@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:onur.arda.ozc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
 ---
